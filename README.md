@@ -8,9 +8,9 @@ This implementation is based on GloVe and ivLBL, and uses the SpaceSaving algori
 * Andriy Mnih and Koray Kavukcuoglu. Learning word embeddings efficiently with noise-contrastive estimation. In NIPS 26, 2013.
 
 ## Prerequisites
-* [Eigen](http://eigen.tuxfamily.org/)
+* [Eigen](http://eigen.tuxfamily.org) 3.0 or more
 * [gzstream](http://www.cs.unc.edu/Research/compgeom/gzstream/)
-* [boost](http://www.boost.org/)
+* [boost](http://www.boost.org/) 1.55 or more
 * g++ 4.8 or more
 * 2GB or more RAM 
 * 10GB or more disk (temporal files are stored in tmp/)
@@ -68,4 +68,6 @@ tar xzf antonym_model.tar.gz
 ## Notes
 Please cite our paper when using this tool.
 * Masataka Ono, Makoto Miwa and Yutaka Sasaki. Word Embedding-based Antonym Detection using Thesauri and Distributional Information. In the Proceedings of the 2015 Conference of the North American Chapter of the Association for Computational Linguistics - Human Language Technologies (NAACL-HLT 2015). pp. 984--989, June 2015. 
+
+When using the resources under data, please check and follow the original license.
 
