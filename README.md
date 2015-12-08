@@ -26,7 +26,7 @@ This implementation is based on GloVe and ivLBL, and uses the SpaceSaving algori
 
 ```
 wget http://tti-coin.jp/data/antonym_model.tar.gz
-tar xzf antonym_models.tar.gz
+tar xzf antonym_model.tar.gz
 ./TestAntonym model/100000.wc.bin model/we-td.model data/antonym/devset.txt
 ```
 
