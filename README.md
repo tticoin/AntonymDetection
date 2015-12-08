@@ -22,7 +22,7 @@ This implementation is based on GloVe and ivLBL, and uses the SpaceSaving algori
 
 ## Usage:
 
-Use a pretrained model
+### Use a pretrained model
 
 ```
 wget http://tti-coin.jp/data/antonym_model.tar.gz
@@ -30,7 +30,7 @@ tar xzf antonym_models.tar.gz
 ./TestAntonym model/100000.wc.bin model/we-td.model data/antonym/devset.txt
 ```
 
-Training a new model
+### Training a new model
 
 1. Prepare Data
    * put gzipped text files (each sentence per line) into a directory (e.g., texts)
