@@ -70,4 +70,4 @@ Please cite our paper when using this tool.
 * Masataka Ono, Makoto Miwa and Yutaka Sasaki. Word Embedding-based Antonym Detection using Thesauri and Distributional Information. In the Proceedings of the 2015 Conference of the North American Chapter of the Association for Computational Linguistics - Human Language Technologies (NAACL-HLT 2015). pp. 984--989, June 2015. 
 
 When using the resources under data, please check and follow the original license.
-
+lets go for a pizza store to eat
